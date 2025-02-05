@@ -1,0 +1,60 @@
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+}
+
+
+
+nav{
+    position: fixed;
+    z-index: 1;
+}
+
+
+.negative{
+    color: orange;
+}
+
+.hed{
+    padding-top: 85px;
+}
+
+img{
+    max-width: 100%;
+}
+
+.deskrip{
+    background-color: orange;
+    width: 200px;
+    color: black;
+}
+
+.deskrip:hover{
+    background-color: black;
+    color: orange;
+}
+
+.cad2{
+    margin-top: 150px;
+}
+
+.testi{
+    margin-top: 100px;
+}
+
+.coment{
+    margin-bottom: 100px;
+}
+
+.testi .fs-1{
+    margin-bottom: 50px;
+}
+
+
+.kontak{
+    margin-top: 100px;
+}
